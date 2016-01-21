@@ -1,0 +1,12 @@
+#result {
+  display: none;
+  font-size: 40px;
+}
+
+#countBy, .countByHeader{
+  text-align: center;
+}
+
+#englishSentence {
+  width: 75%;
+}
